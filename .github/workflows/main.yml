@@ -1,0 +1,10 @@
+main.py =
+    loop central
+    +
+    lectura de estado
+    +
+    ingestión de eventos
+    +
+    aplicación de lógica (tapiz)
+    +
+    dispatch de acciones
